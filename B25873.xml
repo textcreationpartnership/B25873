@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter intercepted from a confident of the Prince of Orange to his friend in the Hague.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25873</idno><idno type="EEBO-CITATION">99888878</idno>
+  <idno type="VID">196405</idno>
+  <idno type="EEBO-PROQUEST">2240899753</idno>
+  
+            <idno type="STC">Wing L1559</idno>
+            <idno type="STC">Interim Tract Supplement Guide 807.g.5.[53]</idno>
+            <idno type="STC">ESTC R232432</idno>
+            <idno type="PROQUEST">ocm99888878</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888878e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196405)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:3[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter intercepted from a confident of the Prince of Orange to his friend in the Hague.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Political satire, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196405:1"/>
+            <head>A Letter Intercepted from a Confident of the Prince of Orange to his Friend In the HAGUE.</head>
+            <p>YOU see at last, Sir, that we know how to make good use of the prudent counsels you gave us. notwithstanding the objections of those speculative Gentlemen, who could not believe the <hi>Hollanders</hi> were capable to make themselves absolute Masters, of a Na<g ref="char:EOLhyphen"/>tion, accustom'd to overcome, which treated them with contempt, and who were so proud and so jealous of their liberty, that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y suppos'd they could never suf<g ref="char:EOLhyphen"/>ficiently limit and restrain the Regal power and Au<g ref="char:EOLhyphen"/>thority; which they endeavour'd even in the Reigns of their most just and most moderate Kings, whatsoever care these coud take to please them, we have neverthe<g ref="char:EOLhyphen"/>less found out the way to subject them intirely, and to oblige them to act blindfold whatever is most conveni<g ref="char:EOLhyphen"/>ent for our interests. You see Sir, the advantage we have made, and how dextrously we have pursu'd your advice, to engage this Kingdom in a war very like to ruine their trade for ever, to consume their bravest men in the flower of their strength, and take from them all possibility of ever recovering that liberty they had so long abus'd to the prejudice of their Soveraigns; and which, had they been wise, they might have longer preserv'd against that which is call'd our Usurpation. To maintain which, it was yet further necessary to for<g ref="char:EOLhyphen"/>tify our selves pursuant to your advice, with an A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my wholly devoted to our Prince, and therefore we hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not only the Troops of our own Nation, who know no other laws than what we give them, but also bring in, as fast as possible, Swedes, Germans, and Swisses; be<g ref="char:EOLhyphen"/>sides, we invite and gather from all parts, all those French that are enemies alike to <hi>Englan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and to their own Countrey; and who have nothing to live upon, but the hopes to enrich themselves by the spoils of all such as shall dare to attempt the shaking off the yoak of our Government.</p>
+            <p>Nor do we forget to lay hold on all occasions, of sen<g ref="char:EOLhyphen"/>ding out of the Realm, by little and little, all the Eng<g ref="char:EOLhyphen"/>lish Army, yet imbued with the principles of hatred this Nation ever had, for Arbitrary Government, and the Dom nion of Strangers. And that which is most admirable in our conduct, is, that those very troops we expose in <hi>Flanders,</hi> and elsewhere, to all the dangers of the war, whose loss cannot but be advantagious to our Prince, do nevertheless serve, to keep in awe all the Republican party of the chief Cities of <hi>Holla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> and prevent their daring to endeavour the setting up, in our absence, any other kind of Common-wealth, or the withdrawing themselves from under the absolute Em<g ref="char:EOLhyphen"/>pire of their Statholder.</p>
+            <p>You will, with me confess, more solid measures coud never have been taken to establish, at one and the same time, a despotick power both over <hi>England,</hi> and over the United Provinces. It is true, that notwith<g ref="char:EOLhyphen"/>standing all our care to perswade this people, and above all the Parliament, of the necessity of a forreign Army. We had much ado to make them swallow the pill, which they always look'd upon as a remedy more proper to encrease than cure their evils; but, our reasons well back'd with French, Dutch, and German Troops, alrea<g ref="char:EOLhyphen"/>dy in the heart of the Kingdom, and which will daily e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>crease, could not but prevail at last, and convince the English that they must go abroad into other Countreys to learn to make War, and leave at home in their own Countrey the War even against themselves, to be ma<g ref="char:EOLhyphen"/>nag'd by <hi>Schumberg,</hi> and the French, Dutch, and Ger<g ref="char:EOLhyphen"/>man Officers, who have long known the way of making good cheer at the cost of their Landlords.</p>
+            <p>Neither are we unmindful, to rid our selves, as you wisely advis'd, of all the troublesome Lovers and As<g ref="char:EOLhyphen"/>sertors of liberty; and of the clear sighted men, who d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scant but too rightly upon the design<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Prince, the Tower of London, and all other prisons are already fill'd, and we have got a wonderful easy way to deal with any that shall have the confidence to oppose our desires, an immediate accusation of high treason; where<g ref="char:EOLhyphen"/>of to convict them, we have always witnesses ready at hand.</p>
+            <p>In the mean while, we, the few friends and confidents of the Prince, are of opinion, we cannot do him, or our selves better service, than by rendring him inaccessible t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these, who by birth or merit might pretend to some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hare in the Government, and administration of affairs: and, as we have truly observ'd, the fear of being accus'd of Treason, of Imprisonment, confiscation of goods, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f whatever our resentments, supported by forreign Troops intirely devoted to us, might prom<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> us <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> agains<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, will always keep them in more subjection, than the small favors they could hope from the Prince our Masters liberality; to which vertue, you know how much he is a stranger; we are very glad to keep them low and cringing, and to oblige them, as well as the rest of the English. to purchase the smallest graces and dis<g ref="char:EOLhyphen"/>patches in business; insomuch, that there is room to hope, that over and above the honors and dignities from which they are excluded, and we already possest, the meanest among us will soon find himself enrich'd by their further spoils, and by all that we may promise our selves from their debasement, and from the slavery of this Nation; to which, like an unruly horse, it is so per<g ref="char:EOLhyphen"/>fectly reduc'd, that we have no cause to fear it will ever hereafter prove refractory, or offer to kick against our spurs; and we have the less reason to apprehend any such thing, in that we have resolv'd for the future not to suffer any of the English, who have the least talent for war or remainder of brave and generous thoughts, to enjoy any manner of charge or employment in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Kingdom: and if they refuse to go and serve us abroad, you s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l soon see them led to <hi>Newgate</hi> as criminals; or else <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall yet find a shorter way to free our selves from them. Nor shall we want expedients to put the Hollanders into the places of those that command in the Tower of <hi>London:</hi> it would be the greatest impru<g ref="char:EOLhyphen"/>dence imaginable, to trust a Post of that consequence in the hands of any of a Nation, we resolve to govern by fear, rather than by love.</p>
+            <p>I make no doubt but you have taken notice, that we have not neglected your advice concerning the great body of this Common-weal, the Merchants; of whom it is certain we should have been afraid, had they con<g ref="char:EOLhyphen"/>tinued in that state of opulency wherein we found them.
+<pb facs="tcp:196405:2"/> We could not have given them a more uneasy shock than that of the Embargo; whereby, under pretence of the necessity of having Vessels and Seamen for the War against <hi>Franc,</hi> we made the English Merchants lose, according to their own computation, above three mill o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s sterling; and we hope to ruine for ever their con merce; for you may well conclude that that being once got into other hands, into those of <hi>Spain, I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aly, Turky,</hi> and other Nations, it will be impossible, in one whole age, to retrieve it, at least to resettle it upon the same bottom it was in three or four months ago.</p>
+            <p>It must indeed be acknowledged, that the most clear fighted Merchants of <hi>London</hi> murmur extremely against this proceeding, and believe that not only their navi<g ref="char:EOLhyphen"/>gation and traffick, but also Men of War for Convoys might have been allowed them: and some of them are so bold as to say, that they were full as happy under the Reigns of their lawful Kings, as now they are really miserable under the arbitrary power of the Usurper. But we know well enough how to silence these mischie<g ref="char:EOLhyphen"/>vous tongues; and believe me, there is nothing more <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sy than to enslave this Nation, and mold it into any kind of fashion; especially for us, who are so well arm'd with power; and we often laugh among our selves at the simplicity of the late Kings of <hi>England,</hi> as well as at the mistake of their neighbours, who ever bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ev'd it was to be govern'd by gentleness, and that great care ought to be taken to act nothing contrary to their laws, their priviledges, and their liberties: but I affirm to you, a man may easily, and without danger, overturn and confound all these, provided he does but know how to conceal a little his method of proceeding; and I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gage, that within a year there will not be one man le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o dispute▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he laws we shall think fit to g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e them. Nay, we shall without difficulty, dest<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y even the Religion of the Church of <hi>England,</hi> and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l other Sects that shall be found contrary to our designs; and that only by making them continually apprehensive of a handful of Papists, and by amusing the whole Nation with an imaginary conspiracy; of wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, from time to time, we will accuse any we suspect, against whom, and all others, who make the least resistance, we will act under that pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, all the violences proper to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing about our projects. You have already observ'd after what manner we made the Scottish Convention pull down Episcopacy. You may take it upon my word, that we have laid as good measures to have the same th ng done in <hi>England,</hi> and that the Rel g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of this State w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll hereafter be that which will most favour our enter<g ref="char:EOLhyphen"/>prize, and best serve us to destroy all those who yet conserve the spir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of liberty, incompatible w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th that absolute power we intend to establish. In a word, our affairs go according to our wishes, and I advise you Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to make what hast you can h ther, together with all our best friends, to reap the profits and riches our own industry, and the little sense of those that call'd us in are ready to heap upon us; and, to take from you any trouble you may possibly have for quitting your Coun<g ref="char:EOLhyphen"/>tre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; I may in confidence venture to tell you, that it is necessary to come and serve here, if you expect to command at home? and that our Prince is fully deter<g ref="char:EOLhyphen"/>mined not to suffer any even but suspected, not to ex<g ref="char:EOLhyphen"/>ecute heartily whatever he shall command for the intire destruction of the Republick, and ancient power of the States-General, to come hereafter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto any charge in Council, or any office or employ tho never so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nconsi<g ref="char:EOLhyphen"/>derable; no, not to enjoy any share in the benefits me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it might make them hope for; which henceforward, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccording to our m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xims, must consist only in a blind obedience to his will. Make, I pray your own advan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of this advice, as we have done of yours, and believe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e always, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
